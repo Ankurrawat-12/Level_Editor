@@ -1,0 +1,11 @@
+Made by:- "Ankur Rawat"
+
+How to use:-
+	1) move your tiles to the 'tiles' folder in 'img' folder 
+	2) rename the tiles starting from 0
+	3) now open the level_editor.py and set the 'TILE_TYPES' to the no of tiles you have 
+	4) change the background in the 'Background' folder in 'img' folder 
+	5) now in the level_editor.py change the name of the bg image in this line of code:- pine1_img = pygame.image.load("img/Background/pine1.png").convert_alpha()
+
+
+********* Do not Delete any files or the level editor will crash *******
